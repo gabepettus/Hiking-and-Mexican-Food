@@ -1,14 +1,12 @@
-# Group-Project
-Hiking and Food (but Tacos are Best) and Beer, Oh My!
+# Hiking and Mexian Food
+Find the a Hike and Mexican Food!
 
-This is Ben and Carina and Gabes project
+This is Ben and Carina and Gabes first group project in which we plan to showcase our ability to utilize APIs and build a simple obile friendly webpage.
 
-This app allows you to find a hike, as well as nearby breweries and restaurants (tacos, specifically!) so that you can burn calories first, then follow up with replacing those calories with beer and food.
+This app allows you to find a hike, as well as nearby mexican restaurants.  The concept is that that you can burn calories first, then follow up with replacing those calories with delicious food.
 
-## API Key
-Ben's Hiking Project API Key: 7047618-fda9a49f18fe64841134cbba3d429bd2
-Open Cage data API Key: 68140e1b938e41eca2e9a95b4e0144cb
 
+Our plan :
 ## Functions to Write
 
 ### UI
